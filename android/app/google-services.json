@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940286062373",
+    "project_id": "onlinemic-signin",
+    "storage_bucket": "onlinemic-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940286062373:android:2df96b762537faec70f4cc",
+        "android_client_info": {
+          "package_name": "com.example.online_mic_tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940286062373-pqkvjpv96am9r973ivr6jftefihtv26r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrqD4nbLWouu7ODTTUYFIn1Nplz2Mn8XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940286062373-pqkvjpv96am9r973ivr6jftefihtv26r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
